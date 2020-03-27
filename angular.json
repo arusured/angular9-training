@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular9-training"
+    }
+  },
+  "defaultProject": "angular9-training",
+  "cli": {
+    "analytics": "cec36fec-4746-4c0e-8193-5f625e922f26"
+  }
 }
